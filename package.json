@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://wuyh266.github.io/task-sync",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
